@@ -1,0 +1,43 @@
+{
+  "name": "nd_cli",
+  "version": "0.0.1-beta",
+  "main": "./Src/index.ts",
+  "author": "NedcloarBR <nedcloar1@hotmail.com> <Discord: NedcloarBR#0026>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NedcloarBR/ND_CLI"
+  },
+  "bugs": {
+    "url": "https://github.com/NedcloarBR/ND_CLI/issues"
+  },
+  "homepage": "https://github.com/NedcloarBR/ND_CLI",
+  "keywords": [
+    "cli",
+    "cli tool",
+    "multi cli",
+    "project generator",
+    "discord",
+    "discord.js",
+    "react",
+    "electron",
+    "nest.js",
+    "express"
+  ],
+  "engines": {
+    "node": "18.x"
+  },
+  "bin": {
+    "nd_cli": "./Dist/index.js",
+    "ndcli": "./Dist/index.js"
+  },
+  "scripts": {
+    
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  }
+}
