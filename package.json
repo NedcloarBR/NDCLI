@@ -1,5 +1,5 @@
 {
-  "name": "nd_cli",
+  "name": "@nedcloarbr/nd_cli",
   "version": "0.0.1-beta",
   "main": "./Src/index.ts",
   "author": "NedcloarBR <nedcloar1@hotmail.com> <Discord: NedcloarBR#0026>",
@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/NedcloarBR/ND_CLI/issues"
   },
-  "homepage": "https://github.com/NedcloarBR/ND_CLI",
+  "homepage": "https://github.com/NedcloarBR/ND_CLI#Readme",
   "keywords": [
     "cli",
     "cli tool",

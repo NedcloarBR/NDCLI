@@ -27,6 +27,9 @@
   <a href="#🗞️ Créditos">Credits</a>
 </p>
 
+## 🗞️ News
+(18/08/2022) - Rename from ND_CLI(in npm | a package with the name ndcli already exists...) to @nedcloarbr/nd_cli
+
 ## ❓ About
   ND_CLI is a CLI (Command Line Interface) to easily generate severalprojects in a few seconds with several features to optimize the creation of your project!
 
