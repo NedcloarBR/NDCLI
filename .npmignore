@@ -4,5 +4,6 @@
 .yarnrc.yml
 .editorconfig
 tsconfig.json
+sonar-project.properties
 .github/
 Src/
