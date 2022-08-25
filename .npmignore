@@ -1,9 +1,14 @@
+# Config
 .babelrc
 .eslintigore
 .eslintrc.json
 .yarnrc.yml
 .editorconfig
+
 tsconfig.json
+ND_CLI.json
 sonar-project.properties
 .github/
 Src/
+test/
+Assets/

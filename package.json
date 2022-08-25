@@ -33,10 +33,11 @@
     "ndcli": "./Dist/index.js"
   },
   "scripts": {
-    
+    "start:dev": "inDev=true ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify --files Src/index.ts",
+    "start": "inDev=false ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify --files Src/index.ts"
   },
   "dependencies": {
-    
+    "inquirer": "=8.2.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",

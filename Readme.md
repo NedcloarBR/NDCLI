@@ -14,28 +14,28 @@
 </div>
 
 <p align="center">
-  <a href="#🗞️ News">News</a>
+  <a href="#News">News</a>
   •
-  <a href="#❓ About">About</a>
+  <a href="#About">About</a>
   • 
-  <a href="#❗ Features">Features</a>
+  <a href="#Features">Features</a>
   •
-  <a href="📝 To-Do">To-Do</a>
+  <a href="To-Do">To-Do</a>
   •
-  <a href="#📖 License">License</a>
+  <a href="#License">License</a>
   •
-  <a href="#🗞️ Créditos">Credits</a>
+  <a href="#Créditos">Credits</a>
 </p>
 
-## 🗞️ News
+## News
 (18/08/2022) - Rename from ND_CLI(in npm | a package with the name ndcli already exists...) to @nedcloarbr/nd_cli
 
-## ❓ About
+## About
   ND_CLI is a CLI (Command Line Interface) to easily generate severalprojects in a few seconds with several features to optimize the creation of your project!
 
-## ❗ Features
+## Features
   🚧 Project Work in Progress 🚧
-## 📝 To-Do
+## To-Do
 
 - [ ] Docs (Contribution Page, etc...)
 - [ ] Generate Projects
@@ -56,10 +56,10 @@
     - [ ] MongoDB
     - [ ] MySQL
 
-## 📖 License
+## License
 
 Released under the [GPL-3.0 License](https://github.com/NedcloarBR/ND_CLI/blob/master/License).
 
-## 🗞️ Credits
+## Credits
 
 - Want to see your name on this list? - see the [Contribution Page](https://github.com/NedcloarBR/ND_CLI/blob/master/Docs/CONTRIBUTING.md).

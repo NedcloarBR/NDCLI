@@ -1,4 +1,16 @@
+# Packages
 node_modules/
+
+# Yarn
 .yarn/
+!.yarn/plugins/
+!.yarn/releases/
+
+# Miscellaneous
 test/
 .Dist/
+ND_CLI.json
+
+# Cache
+.prettiercache
+.eslintcache
