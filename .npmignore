@@ -1,6 +1,9 @@
 # Packages
 node_modules/
 
+# Yarn
+.yarn/
+
 # Config
 .babelrc
 .eslintigore

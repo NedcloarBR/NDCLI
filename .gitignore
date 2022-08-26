@@ -8,7 +8,7 @@ node_modules/
 
 # Miscellaneous
 test/
-.Dist/
+Dist/
 ND_CLI.json
 
 # Cache
