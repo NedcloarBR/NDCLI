@@ -1470,9 +1470,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nedcloarbr/nd_cli@workspace:.":
+"@nedcloarbr/ndcli@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@nedcloarbr/nd_cli@workspace:."
+  resolution: "@nedcloarbr/ndcli@workspace:."
   dependencies:
     "@babel/cli": ^7.18.10
     "@babel/core": ^7.18.10
