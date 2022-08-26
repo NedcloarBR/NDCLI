@@ -18,7 +18,8 @@ sonar-project.properties
 .github/
 
 # Dev 
-ND_CLI.json
+NDCLI.json
 Src/
 test/
 Assets/
+*.ignore

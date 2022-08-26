@@ -6,12 +6,12 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NedcloarBR/ND_CLI"
+    "url": "git+https://github.com/NedcloarBR/NDCLI"
   },
   "bugs": {
-    "url": "https://github.com/NedcloarBR/ND_CLI/issues"
+    "url": "https://github.com/NedcloarBR/NDCLI/issues"
   },
-  "homepage": "https://github.com/NedcloarBR/ND_CLI#Readme",
+  "homepage": "https://github.com/NedcloarBR/NDCLI#Readme",
   "keywords": [
     "cli",
     "cli tool",

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  ND_CLI
+  NDCLI
   <br>
 </h1>
 
@@ -8,8 +8,8 @@
 <div align=center>
 
 [![Discord](https://img.shields.io/discord/679066351456878633.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](http://discord.gg/5CHARxbaRk)
-[![Linhas de Código](https://sonarcloud.io/api/project_badges/measure?project=NedcloarBR_ND_CLI&metric=ncloc)](https://sonarcloud.io/dashboard?id=NedcloarBR_ND_CLI)
-[![CodeFactor](https://www.codefactor.io/repository/github/nedcloarbr/n-d-b/badge)](https://www.codefactor.io/repository/github/nedcloarbr/nd_cli)
+[![Linhas de Código](https://sonarcloud.io/api/project_badges/measure?project=NedcloarBR_ND_CLI&metric=ncloc)](https://sonarcloud.io/dashboard?id=NedcloarBR_NDCLI)
+[![CodeFactor](https://www.codefactor.io/repository/github/nedcloarbr/n-d-b/badge)](https://www.codefactor.io/repository/github/nedcloarbr/ndcli)
 
 </div>
 

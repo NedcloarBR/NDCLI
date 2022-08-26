@@ -18,7 +18,7 @@
     "rootDir": "./Src",
     "removeComments": true,
     "declaration": false,
-    "typeRoots": ["./node_modules/@types", "./Src/Types/"],
+    "typeRoots": ["./node_modules/@types", "./Src/@Types/"],
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,

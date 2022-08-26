@@ -4,13 +4,13 @@ import { writeFileSync } from "node:fs";
 import { mkdir } from "node:fs/promises";
 import { CheckConfig } from "../Utils";
 import { BaseConfig, BaseConfigAnswers, OverwriteAnswers } from "../Config";
-import { Exit } from "../Modules";
+import { Exit, ManageProject } from "../Modules";
 
 if(process.env.inDev === "true") {
-  var ConfigPath: string = join(process.cwd(), "test", "ND_CLI.json");
+  var ConfigPath: string = join(process.cwd(), "test", "NDCLI.json");
   mkdir(join(process.cwd(), "test"));
 } else {
-  var ConfigPath: string = join(process.cwd(), "ND_CLI.json");
+  var ConfigPath: string = join(process.cwd(), "NDCLI.json");
 }
 
 var GenerateProject = async function() {
@@ -57,7 +57,7 @@ export default class CLIClient {
         if(ansewers.overwrite) {
           await BuildConfigFile(BaseConfig);
         } else {
-          await Exit();
+          await ManageProject()
         }
       })
     } else {

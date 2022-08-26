@@ -4,8 +4,7 @@ import { CheckConfig } from "../../Utils";
 
 export async function Exit(): Promise<void> {
   if(await CheckConfig("Temp")) {
-    console.log("aaaa")
-    await rmdir( "Temp")
+    await rmdir("Temp")
   }
   console.log("👋 Goodbye!")
   process.exit(0);

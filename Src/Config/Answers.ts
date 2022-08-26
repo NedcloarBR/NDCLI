@@ -18,7 +18,7 @@ export const BaseConfigAnswers: QuestionCollection = [
     name: "projectType",
     message: "💨 What type of project? 🤔 (🚧 WIP 🚧)",
     type: "list",
-    choices: [/*"discord.js", "React-default", "React-clean", "Express", "Electron", "View Boilerplates",*/ "Only Config File(ND_CLI.json)"]
+    choices: [/*"discord.js", "React-default", "React-clean", "Express", "Electron", "View Boilerplates",*/ "Only Config File(NDCLI.json)"]
   },
   {
     name: "language",
@@ -31,7 +31,7 @@ export const BaseConfigAnswers: QuestionCollection = [
 export const OverwriteAnswers: QuestionCollection = [
   {
     name: "overwrite",
-    message: "🚫 ND_CLI.json already exists! 🚨\n Would you like to overwrite it? 🤔",
+    message: "🚫 NDCLI.json already exists! 🚨\n Would you like to overwrite it? 🤔\n(Y) Regenerate Config / (N) Manage Project",
     type: "confirm",
     default: true
   }
@@ -47,5 +47,4 @@ export async function PackageJSONAnswers(): Promise<QuestionCollection> {
       default: packageJSON.main
     }
   ]
-  
 } 

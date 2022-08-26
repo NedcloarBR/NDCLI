@@ -13,5 +13,5 @@
   "plugins": [
     
   ],
-  "ignore": ["**/*.spec.ts", "node_modules", "**/*.d.ts"]
+  "ignore": ["**/*.spec.ts", "node_modules", "**/*.d.ts", "*.ignore"]
 }
