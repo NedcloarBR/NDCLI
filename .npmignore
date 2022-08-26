@@ -1,15 +1,21 @@
+# Packages
+node_modules/
+
 # Config
 .babelrc
 .eslintigore
 .eslintrc.json
 .yarnrc.yml
 .editorconfig
-
 tsconfig.json
-ND_CLI.json
+
+# GitHub
 sonar-project.properties
+.gitignore
 .github/
+
+# Dev 
+ND_CLI.json
 Src/
 test/
 Assets/
-node_modules/

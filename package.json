@@ -1,6 +1,6 @@
 {
   "name": "@nedcloarbr/nd_cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "./Src/index.ts",
   "author": "NedcloarBR <nedcloar1@hotmail.com> <Discord: NedcloarBR#0026>",
   "license": "GPL-3.0",
