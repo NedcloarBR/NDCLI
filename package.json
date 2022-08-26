@@ -1,6 +1,6 @@
 {
   "name": "@nedcloarbr/nd_cli",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "main": "./Src/index.ts",
   "author": "NedcloarBR <nedcloar1@hotmail.com> <Discord: NedcloarBR#0026>",
   "license": "GPL-3.0",
@@ -34,7 +34,8 @@
   },
   "scripts": {
     "start:dev": "inDev=true ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify --files Src/index.ts",
-    "start": "inDev=false ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify --files Src/index.ts"
+    "start": "inDev=false ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify --files Src/index.ts",
+    "build": "babel Src --extensions \".js,.ts\" --out-dir Dist --copy-files --no-copy-ignored"
   },
   "dependencies": {
     "inquirer": "=8.2.3"
