@@ -12,3 +12,4 @@ sonar-project.properties
 Src/
 test/
 Assets/
+node_modules/
