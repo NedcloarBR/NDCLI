@@ -29,7 +29,7 @@
 
 ## News
 
-(25/08/2022) - 1.0.0 released! Package republished on NPM to exclude beta versions(0.0.1/0.0.2)
+(25/08/2022) - 1.0.0 released! Package republished on NPM to exclude beta versions(0.0.1/0.0.2) Rename to @nedcloarbr/ndcli
 
 (18/08/2022) - Rename from ND_CLI(in npm | a package with the name ndcli already exists...) to @nedcloarbr/nd_cli
 

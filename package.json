@@ -1,5 +1,5 @@
 {
-  "name": "@nedcloarbr/nd_cli",
+  "name": "@nedcloarbr/ndcli",
   "version": "1.0.0",
   "main": "./Src/index.ts",
   "author": "NedcloarBR <nedcloar1@hotmail.com> <Discord: NedcloarBR#0026>",
